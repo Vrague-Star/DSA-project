@@ -1,7 +1,12 @@
-```markdown
+
 # Project Title
 
 Employee Attrition Analysis
+
+##Members
+Albert Rague(Vrague-Star)
+Purity Mbugua(pwmbugua)
+Duncan Ratemo(Billionaire001-del)
 
 ## Table of Contents
 
