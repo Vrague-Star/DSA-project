@@ -4,9 +4,10 @@
 Employee Attrition Analysis
 
 ##Members
-Albert Rague(Vrague-Star)
-Purity Mbugua(pwmbugua)
-Duncan Ratemo(Billionaire001-del)
+
+1. Albert Rague(Vrague-Star)
+2. Purity Mbugua(pwmbugua)
+3. Duncan Ratemo(Billionaire001-del)
 
 ## Table of Contents
 
