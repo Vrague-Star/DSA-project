@@ -73,6 +73,30 @@ This project includes:
 - Feature engineering for predictive modeling.
 - Insights and recommendations based on findings.
 
+  ⚙️ Steps Performed
+Data Import & Initial Exploration
+
+Loaded CSV file using Pandas
+Previewed basic information and data types
+Data Cleaning & Preprocessing
+
+Handled categorical columns using LabelEncoder
+Checked for missing values and imbalanced classes
+Encoded target variable
+Exploratory Data Analysis (EDA)
+
+Visualized class distribution (Attrition)
+Examined age distribution and correlation between features
+Model Building
+
+Used Logistic Regression for classification
+Split dataset into training and testing sets
+Evaluated performance using accuracy score and classification report
+📊 Results
+Model trained using logistic regression
+Evaluation metrics used: Accuracy, Precision, Recall, F1-score
+
+
 ## Examples
 
 ### Example 1: Attrition Rate by Department
